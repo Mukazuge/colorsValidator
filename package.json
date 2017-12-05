@@ -1,0 +1,7 @@
+{
+  "name": "colorsFormatValidator",
+  "version": "0.0.1",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
